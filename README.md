@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shipi-3D
 - 👀 I’m interested in learning coding and blender
-- 🌱 I’m currently learning 3d modelling in blender
+- 🌱 I’m currently learning 3d modelling in blender and to code using C, CPP and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: shipi_x1#9352
 
